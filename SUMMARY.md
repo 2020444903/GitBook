@@ -10,3 +10,4 @@
   - [机械与动力工程学院](Chapter2/MechanicalSchool.md)
   - [电气工程学院](Chapter2/ElectricalSchool.md)
   - [智能技术与工程学院](Chapter2/IntelligenceSchool.md)
+  - [外语学院](Chapter2/LanguageSchool.md)
