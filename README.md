@@ -7,3 +7,4 @@ Chongqing University of Science and Technology
  - [学校概况](./Chapter1/README.md)
  - [学院设置](./Chapter2/README.md)
 
+# GitBook
